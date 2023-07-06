@@ -1,0 +1,137 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,500&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+font-family: 'Montserrat', sans-serif;
+}
+.banner{
+    background-color: rgb(0, 6, 34);
+    text-align: lift;
+    padding: 50px 0px;
+}
+.container{
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.banner naw{
+    padding-top: 30px;
+}
+.head{ 
+padding-left: 40px;
+}
+.head h1{
+    font-size:50px;
+    color:rgb(251, 177, 18);
+    font-weight: 800;
+}
+.banner p{
+    font-size:15px;
+    color:rgb(253, 252, 252);
+    font-weight: 200;
+    line-height: 1.6;
+    margin-top: 10px;
+}
+.naw{
+display: flex;
+align-items: center;
+}
+.naw img{
+    max width: 50px;
+    width: 300px;
+    border-radius: 5%;
+    border: 5px solid white;
+}
+
+.head a{
+    font-size: 23px;
+    background-color: rgb(251 177 18);
+    font-weight: 600;
+    color: rgb(255 255 255);
+    text-decoration: none;
+    padding: 10px;
+    display: inline-block;
+    margin-top: 17px;
+    border-radius: 8px;
+}
+.middle{
+    text-align: lift;
+    padding: 80px 0px;
+}
+.again{
+display: flex;
+align-items: center;
+}
+.tex{
+    padding-right: 30px;
+}
+.tex h2{
+font-weight: 800;
+font-size: 40px;
+color: rgb(0, 6, 34);
+}
+.tex p{
+    font-size:15px;
+    color:rgb(83, 83, 83);
+    font-weight: 400;
+    line-height: 1.6;
+    margin-top: 10px;
+}
+.sobai{
+text-align: center;
+background-color: #f1f1f1;
+padding: 70px 0px;
+}
+.net h2{
+font-weight: 800;
+font-size: 40px;
+color: rgb(0, 6, 34);
+}
+.net p{
+    font-size:15px;
+    color:rgb(83, 83, 83);
+    font-weight: 400;
+    line-height: 1.6;
+    margin-top: 10px;
+}
+.mentor{
+    background-color: rgb(0, 6, 34);
+    text-align: lift;
+    padding: 70px 0px;
+}
+.fy{
+    display: flex;
+    align-items: center;
+}
+
+.fy man{
+
+}
+.main{
+    padding-left: 40px;
+}
+.main h2{
+    font-size:40px;
+    color:rgb(251, 177, 18);
+    font-weight: 800;
+}
+.main p{
+    font-size:15px;
+    color:rgb(253, 252, 252);
+    font-weight: 200;
+    line-height: 1.6;
+    margin-top: 10px;
+}
+.main a{
+    font-size: 23px;
+    background-color: rgb(251 177 18);
+    font-weight: 600;
+    color: rgb(255 255 255);
+    text-decoration: none;
+    padding: 10px;
+    display: inline-block;
+    margin-top: 17px;
+    border-radius: 8px;
+}
